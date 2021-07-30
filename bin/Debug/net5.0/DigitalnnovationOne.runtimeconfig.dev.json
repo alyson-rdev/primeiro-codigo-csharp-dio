@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\alyso\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\alyso\\.nuget\\packages"
+    ]
+  }
+}
